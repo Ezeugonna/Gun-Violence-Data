@@ -22,3 +22,7 @@
 ### 2. Geographic Coverage: Includes incidents across all states and cities in the United States, enabling detailed geographical analysis.
 
 ### 3. Incident Details: Records the number of fatalities and injuries, as well as the types of incidents (e.g., homicides, accidental shootings).
+
+# Link to Tableau
+
+### https://public.tableau.com/app/profile/obinwanne.alisigwe/viz/FinalProjectDashboard_17216771860780/Story1?publish=yes
